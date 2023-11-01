@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a mobile app dev. Currently playing with Flutter! 💙
+I'm a Mobile App Dev.
+It's been a while. Started to create projects with Flutter again! 💙
+
 <!--
 **talhademirbas/talhademirbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
